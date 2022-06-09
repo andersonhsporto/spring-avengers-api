@@ -31,12 +31,12 @@ public class SpringFox {
                 "Avengers API",
                 "A simple restful api to get some information about the avengers.",
                 "1.0",
-                "https://github.com/andersonhsporto/C-avengers-api",
-                new Contact("Pleiades",
-                        "https://github.com/andersonhsporto/C-avengers-api",
+                "https://github.com/andersonhsporto/spring-avengers-api",
+                new Contact("Anderson Porto",
+                        "https://github.com/andersonhsporto/spring-avengers-api",
                         "anderson.higo2@gmail.com"),
                         "MIT LICENSE",
-                        "https://github.com/nginx/nginx/blob/e6b3a11581a8040baf7aded3319b0dec433b2461/docs/text/LICENSE",
+                        "https://github.com/andersonhsporto/spring-avengers-api/blob/master/LICENSE",
                 new ArrayList<VendorExtension>()
         );
         return apiInfo;
